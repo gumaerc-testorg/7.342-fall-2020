@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ readings
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L1summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L1summary" %}}
 
 
 {{< tdclose >}}
@@ -50,14 +52,14 @@ No Readings
 
 Epithelial-Mesenchymal Transition and Dissemination from the Primary Tumor
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L2summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L2summary" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Yang, J., Mani, S. A., Donaher, J. L., et al. (2004) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Twist, a master regulator of morphogenesis, plays an essential role in tumor metastasis (PDF)](https://www.cell.com/cell/pdf/S0092-8674(04)00576-8.pdf). _Cell_ 117, 927-939.
+Yang, J., Mani, S. A., Donaher, J. L., et al. (2004) [Twist, a master regulator of morphogenesis, plays an essential role in tumor metastasis (PDF)](https://www.cell.com/cell/pdf/S0092-8674(04)00576-8.pdf). _Cell_ 117, 927-939.
 
 Janda, E., Lehmann, K., Killisch, I., et al. (2002) [Ras and TGFβ cooperatively regulate epithelial cell plasticity and metastasis: dissection of Ras signaling pathways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2199233/). _The Journal of Cell Biology_ 156, 299–314.
 
@@ -72,7 +74,7 @@ Janda, E., Lehmann, K., Killisch, I., et al. (2002) [Ras and TGFβ cooperatively
 {{< tdopen >}}
 Cancer in Transit: Dynamics and Behaviors of Circulating Tumor Cells (CTCs)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L3summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L3summary" %}}
 
 
 {{< tdclose >}}
@@ -94,7 +96,7 @@ Cheung, K. J., Padmanaban, V., Silvestri, V., et al. (2016) [Polyclonal breast c
 {{< tdopen >}}
 Stromal Support of Dissemination
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L4summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L4summary" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +118,7 @@ Labelle, M., Begum, S., and Hynes, R. O. (2011) [Direct signaling between platel
 {{< tdopen >}}
 EMT Plasticity and Metastatic Colonization
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L5summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L5summary" %}}
 
 
 {{< tdclose >}}
@@ -138,14 +140,14 @@ Pastushenko, I., Brisebarre, A., Sifrim, A., et al. (2018) [Identification of th
 {{< tdopen >}}
 Cancer Stem Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L6summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L6summary" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-de Sousa e Melo, F., Kurtova, A. V., Harnoss, J. M., et al. (2017) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A distinct role for Lgr5(+) stem cells in primary and metastatic colon cancer (PDF - 4.9MB)](https://www.nature.com/articles/nature21713.pdf?origin=ppub). _Nature_ 543, 676–680.
+de Sousa e Melo, F., Kurtova, A. V., Harnoss, J. M., et al. (2017) [A distinct role for Lgr5(+) stem cells in primary and metastatic colon cancer (PDF - 4.9MB)](https://www.nature.com/articles/nature21713.pdf?origin=ppub). _Nature_ 543, 676–680.
 
 Fumagalli, A., Oost, K.C., Kester, L., et al. (2020) [Plasticity of Lgr5-negative cancer cells drives metastasis in colorectal cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118369/). _Cell Stem Cell_ 26, 569–578.e7.
 
@@ -160,7 +162,7 @@ Fumagalli, A., Oost, K.C., Kester, L., et al. (2020) [Plasticity of Lgr5-negativ
 {{< tdopen >}}
 Genetic Heterogeneity and Evolution of Metastatic Disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L7summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L7summary" %}}
 
 
 {{< tdclose >}}
@@ -182,7 +184,7 @@ Reiter, J. G., Makohon-Moore, A. P., Gerold, J. M., et al. (2018) [Minimal funct
 {{< tdopen >}}
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L8summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L8summary" %}}
 
 
 {{< tdclose >}}
@@ -198,7 +200,7 @@ Dang, L., White, D. W., Gross, S., et al. (2009) [Cancer-associated IDH1 mutatio
 {{< tdopen >}}
 Determinants of Metastatic Tropism
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L9summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L9summary" %}}
 
 
 {{< tdclose >}}
@@ -220,7 +222,7 @@ Reichert, M., Bakir, B., Moreira, L., et al. (2018) [Regulation of epithelial pl
 {{< tdopen >}}
 The Metastatic Niche
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L10summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L10summary" %}}
 
 
 {{< tdclose >}}
@@ -242,7 +244,7 @@ Malanchi, I., Santamaria-Martinez, A., Susanto, E., et al. (2011) [Interactions 
 {{< tdopen >}}
 Systemic Effects and the Pre-metastatic Niche
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L11summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L11summary" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ Elkabets, M., Gifford, A. M., Scheel, C., et al. (2011) [Human tumors instigate 
 {{< tdopen >}}
 Interactions Between Dormant DTCs and the Immune System
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L12summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L12summary" %}}
 
 
 {{< tdclose >}}
@@ -286,7 +288,7 @@ Pommier, A., Anaparthy, N., Memos, N., et al. (2018) [Unresolved endoplasmic ret
 {{< tdopen >}}
 Oral Presentations and Closing Remarks
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L13summary)
+{{% resource_link fd49535f-f424-95d2-eac1-29d6f12530da "See the Lecture Summary" "#L13summary" %}}
 
 
 {{< tdclose >}}
