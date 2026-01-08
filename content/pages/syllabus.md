@@ -161,7 +161,7 @@ Written assignment due
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip (virtual), to {{% resource_link "e1f69570-83f9-4080-9901-84e8ff933d2c" "Agios" %}}
+Field Trip (virtual), to [Agios](https://www.agios.com/)
 {{< tdclose >}}
 {{< tdopen >}}
  
